@@ -13,52 +13,42 @@ Passionate about Data, Machine Learning, and Artificial Intelligence 🚀
 
 ---
 
-# 🧠 Skills
+## 🧠 Skills
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,linux" />
-
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux" />
 </p>
 
 ### 📊 Data Science & Machine Learning
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50">
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" />
 </p>
 
 ---
 
-# 📊 GitHub Stats & Activity
+## 📈 GitHub Stats & Activity
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=NzxCode&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NzxCode&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NzxCode&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 - Python for Data Science
 - Data Cleaning & Preprocessing
@@ -69,17 +59,17 @@ Passionate about Data, Machine Learning, and Artificial Intelligence 🚀
 
 ---
 
-# 🚀 Future Goals
+## 🚀 Future Goals
 
-- Build end-to-end **Machine Learning projects**
-- Work with **real-world datasets**
-- Build **AI powered applications**
-- Learn **Deep Learning & Neural Networks**
-- Become a **Machine Learning / AI Engineer**
+- Build end-to-end Machine Learning projects
+- Work with real-world datasets
+- Build AI powered applications
+- Learn Deep Learning & Neural Networks
+- Become a Machine Learning / AI Engineer
 
 ---
 
-# 📌 Upcoming Projects
+## 📌 Upcoming Projects
 
 - 📊 Data Analysis with Pandas
 - 📈 Exploratory Data Analysis Project
@@ -89,22 +79,12 @@ Passionate about Data, Machine Learning, and Artificial Intelligence 🚀
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40">
-</a>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="40">
-</a>
-
-<a href="https://instagram.com/">
-<img src="https://skillicons.dev/icons?i=instagram" width="40">
-</a>
-
+  <a href="https://github.com/NzxCode">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
 </p>
 
 ---
